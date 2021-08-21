@@ -1,3 +1,4 @@
-## Personal Portfolio
+<h1>Portfolio Website</h1>
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+hosted on netlify: <bt/>
+https://tender-ride-3b9ec3.netlify.app/
