@@ -1,4 +1,5 @@
-<h1>Portfolio Website</h1>
+# Portfolio Website
 
-hosted on netlify: <bt/>
-[click here](https://tender-ride-3b9ec3.netlify.app/)
+### Check it out here:
+>Hosted on netlify: <bt/>
+>[click here](https://tender-ride-3b9ec3.netlify.app/)
