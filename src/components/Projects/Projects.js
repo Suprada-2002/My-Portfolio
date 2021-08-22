@@ -21,7 +21,7 @@ import {
 import { projects } from "../../constants/constants";
 
 const Projects = () => (
-  <Section nopadding if="projects">
+  <Section nopadding id="projects">
     <SectionDivider />
     <SectionTitle main>My Projects</SectionTitle>
     <GridContainer>

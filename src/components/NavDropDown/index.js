@@ -1,13 +1,20 @@
-import React from 'react'
-import { AiFillPhone, AiOutlineMail } from 'react-icons/ai'
-import { FaLocationArrow } from "react-icons/fa"
+import React from "react";
+import { AiFillPhone, AiOutlineMail } from "react-icons/ai";
+import { FaLocationArrow } from "react-icons/fa";
 
-import { DropDownContainer, DropDownIcon, DropDownItem, DropDownItemDesc, DropDownItemTitle, DropDownTextContainer } from './NavDropDown'
+import {
+  DropDownContainer,
+  DropDownIcon,
+  DropDownItem,
+  DropDownItemDesc,
+  DropDownItemTitle,
+  DropDownTextContainer,
+} from "./NavDropDown";
 
 const NavDropDown = (props) => (
   <div>
-    NavDropDown
+    <NavDropDown />
   </div>
 );
 
-export default NavDropDown
+export default NavDropDown;
